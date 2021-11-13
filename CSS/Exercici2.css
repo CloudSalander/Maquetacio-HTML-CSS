@@ -118,13 +118,18 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-
     body {
         max-width: 669px;
         margin: 10px;
     }
     #nav-superior {
         background-color: #2d4059;
+    }
+    #capsa1, #capsa3 {
+        flex-basis: 87px;
+    }
+    #capsa2 {
+        flex-basis: 340px;
     }
     #cos {
         flex-flow: row wrap;
@@ -151,14 +156,11 @@ body {
         border-left: 0px;
         border-top: 10px solid #feff03;
     }
-
     .altres-item {
         flex-basis: 550px;
         margin: 20px 20px 5px 20px;
     }
-
-    .altres:last-of-type {
-        flex-basis: 550px;
-        margin: 5px 20px 0px 20px;
+    .altres-item:last-of-type {
+        margin: 5px 20px 20px 20px;
     }
 }
