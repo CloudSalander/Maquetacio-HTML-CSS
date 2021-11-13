@@ -20,11 +20,11 @@ Com el cas anterior, ara hauràs de fer l'adaptació a versió Mobile.
 
 Nivell 2
 
-Exercici 1
+Exercici 1 (Exercici 4)
 
 En aquesta part volem treballar la capçalera i el grafisme. Hauràs d'afegir icones i logotip, a més de fer una imatge de fons. Substitueix els quadrants respectius perquè la nova capçalera tingui l'aspecte d'aquest web de turisme al japó.
 
-Exercici 2
+Exercici 2 (Exercici 5)
 
 En aquest exercici hauràs d'afegir l'apartat dels articles seguint aquest grafisme.
 
