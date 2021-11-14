@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Exercici1",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.showOnStatusbar": true,
+		"liveServer.settings.CustomBrowser": null,
+		"liveServer.settings.host": "127.0.0.1",
+		"liveServer.settings.port": 5500,
+		"liveServer.settings.fullReload": true
+	}
+}
